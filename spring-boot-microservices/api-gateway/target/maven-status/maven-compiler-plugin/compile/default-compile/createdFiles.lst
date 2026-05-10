@@ -1,0 +1,3 @@
+com\eventhub\gateway\config\SecurityConfig.class
+com\eventhub\gateway\ApiGatewayApplication.class
+com\eventhub\gateway\filter\JwtAuthenticationFilter.class
